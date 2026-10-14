@@ -1,0 +1,14 @@
+
+/* Forma Studio fonts v1 */
+@font-face{font-family:"Paralucent Medium";font-style:normal;font-weight:500;font-stretch:normal;font-display:swap;src:url("paralucent-medium-55aa0b34/paralucent-medium-373f9a4fe722.woff2") format("woff2");}
+
+@font-face{font-family:"Paralucent Medium";font-style:italic;font-weight:500;font-stretch:normal;font-display:swap;src:url("paralucent-medium-55aa0b34/paralucent-mediumitalic-231c8dac1bf0.woff2") format("woff2");}
+
+@font-face{font-family:"Arial";font-style:italic;font-weight:700;font-stretch:normal;font-display:swap;src:url("arial-7dac2824/arial-bolditalicmt-c7ce9889309d.woff2") format("woff2");}
+
+@font-face{font-family:"Arial";font-style:normal;font-weight:700;font-stretch:normal;font-display:swap;src:url("arial-7dac2824/arial-boldmt-fa685b91ee81.woff2") format("woff2");}
+
+@font-face{font-family:"Arial";font-style:italic;font-weight:400;font-stretch:normal;font-display:swap;src:url("arial-7dac2824/arial-italicmt-7ecdda600834.woff2") format("woff2");}
+
+@font-face{font-family:"Arial";font-style:normal;font-weight:400;font-stretch:normal;font-display:swap;src:url("arial-7dac2824/arialmt-d97a45ec76dd.woff2") format("woff2");}
+/* End Forma Studio fonts */
